@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://raw.githubusercontent.com/Coolczycki/Java_snakeGame/main/"href="https://raw.githubusercontent.com/Coolczycki/Java_snakeGame/main/MyGame.jnlp"
+">
+    <information>
+        <title>Snake</title>
+        <vendor>Piotr Kulczycki B)</vendor>
+    </information>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="MyGame.jar" main="true"/>
+    </resources>
+    <application-desc main-class="com.MyGame.MainClass"/>
+</jnlp>
