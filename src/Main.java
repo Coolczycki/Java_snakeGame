@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
-        System.out.println("Checking SSH connection");
+       gameFrame frame = new gameFrame();
     }
 }
