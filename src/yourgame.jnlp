@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="https://raw.githubusercontent.com/Coolczycki/Java_snakeGame/main/"href="https://raw.githubusercontent.com/Coolczycki/Java_snakeGame/main/MyGame.jnlp">
+<jnlp spec="1.0+" codebase="https://github.com/Coolczycki/Java_snakeGame/tree/master/src"href="https://github.com/Coolczycki/Java_snakeGame/blob/master/src/MyGame.jnlp">
     <information>
         <title>Snake</title>
         <vendor>Piotr Kulczycki B)</vendor>
