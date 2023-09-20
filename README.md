@@ -1,4 +1,5 @@
 Simple snake game done using plain Java. 
 
+Tried deploying it via .jnlp but sadly could not get it to work. 
 
-<a href="https://raw.githubusercontent.com/Coolczycki/Java_snakeGame/main/yourgame.jnlp">Start the game</a>
+To play the game simply clone repo and lunch via MyGame.jar
