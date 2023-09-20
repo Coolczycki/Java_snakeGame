@@ -1,5 +1,1 @@
-This is a README. 
-
-Hopefully it shall be fixed in near future
-
-Connecting my Macbook :D
+Simple snake game done using plain Java. 
